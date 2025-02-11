@@ -180,6 +180,4 @@ OPENAI_MODEL="custom_model"
    - Includes all sources and references
    - Organizes information in a clear, readable format
 
-## License
 
-MIT License - feel free to use and modify as needed.
